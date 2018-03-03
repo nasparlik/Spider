@@ -1,0 +1,11 @@
+C:\Users\cosop\source\repos\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.deps.json
+C:\Users\cosop\source\repos\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.runtimeconfig.json
+C:\Users\cosop\source\repos\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.runtimeconfig.dev.json
+C:\Users\cosop\source\repos\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.dll
+C:\Users\cosop\source\repos\Spider\Spider\bin\Debug\netcoreapp2.0\Spider.pdb
+C:\Users\cosop\source\repos\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.csproj.CoreCompileInputs.cache
+C:\Users\cosop\source\repos\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.AssemblyInfoInputs.cache
+C:\Users\cosop\source\repos\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.AssemblyInfo.cs
+C:\Users\cosop\source\repos\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.dll
+C:\Users\cosop\source\repos\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.pdb
+C:\Users\cosop\source\repos\Spider\Spider\obj\Debug\netcoreapp2.0\Spider.csprojResolveAssemblyReference.cache

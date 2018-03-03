@@ -1,0 +1,27 @@
+﻿@model List<Spider.Models.Scrap>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Web Crawler</h1>
+<div class="jumbotron">
+    <div class="input-group">
+        <span class="input-group-addon" id="basic-addon1">Domain:</span>
+        <input type="text" class="form-control" aria-describedby="basic-addon1" value="https://hirespace.com/" disabled >
+        <a class="btn btn-primary input-group-addon" asp-controller="Home"  asp-action="GetHtml">Submit</a>
+    </div>
+    <hr class="my-4">
+    <ul class="list-group">
+        <li class="list-group-item active">URL <span style="float:right">Total nodes: @Model.Count</span></li>
+        @if (Model != null)
+    {
+        @foreach (var item in Model)
+        {
+           <li class="list-group-item">@item.Url<span style="float:right">Rank: @item.Rank</span></li>
+        }
+    }else
+        {
+        <li class="list-group-item">No link given</li>
+        }
+    </ul>
+</div>
